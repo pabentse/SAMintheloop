@@ -1,4 +1,4 @@
-# SAM in the Pipeline
+# SAM in the Loop
 
 Note: Models such as RT-DETR, YOLO and SAM must be dowloaded manually.
 
